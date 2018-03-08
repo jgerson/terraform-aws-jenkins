@@ -1,0 +1,15 @@
+### Terraform ###
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfstate.lock.info
+
+# Module directory
+.terraform/
+
+# Pycharms Info
+.idea/
+
+### SSH Keys ###
+*.pem
